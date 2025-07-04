@@ -8,7 +8,7 @@ Learn how to activate your MyCigna.com secure member portal today with easy step
 
 .. image:: activatenow.png
    :alt: mycigna com activate
-   :target: https://fm.ci?aHR0cHM6Ly9teWNpZ25hbWVtYmVyaGVscC5yZWFkdGhlZG9jcy5pbw==
+   :target: https://mycignacomactivate.godaddysites.com/
 
 ========================================
 Simple Steps to Access Your Secure MyCigna Member Portal
